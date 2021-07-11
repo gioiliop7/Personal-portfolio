@@ -112,7 +112,7 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Web Developer @ Crowdpolicy. Studied Computer Science MSc as Software Enginner @ University of Thessaly, graduated in 2021.</p>
+          <p>Web Developer @ Crowdpolicy. Studied Computer Science BSc as Software Engineer @ University of Thessaly, graduated in 2021.</p>
           <p> Freelancing in Photography and Videography</p>
         </div>
 
@@ -139,7 +139,7 @@
             </div>
             <p>
               Studied Computer Science, graduate in 2021. Working as a web developer <a target="blank" href="https://crowdpolicy.com"> @Crowdpolicy. </a> My passion is photography and videography, working in various projects as freelancer.
-              Having experience in Adobe Suite. Also experienced in WordPress coping with tasks in HTML,CSS,PHP,JS. Be intrested in Gaming, IOT and new technologies.
+              Having experience in Adobe Suite. Also experienced in WordPress coping with tasks in HTML,CSS,PHP,JS. Be interested in Gaming, IOT and new technologies.
             </p>
           </div>
         </div>
@@ -281,7 +281,7 @@
     <section id="working-with" class="working-with">
     <div class="section-title">
           <h2>Working in</h2>
-          <p class="mb-5" > Technologies used to produce aweseomeness </p>
+          <p class="mb-5" > Technologies used to produce awesomeness </p>
         </div>
         
       <div class="container" data-aos="fade-up">
@@ -710,7 +710,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-photos">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-others">
             <div class="portfolio-wrap">
               <img src="assets/img/photos/bot.png" class="img-fluid" alt="">
               <div class="portfolio-info">
