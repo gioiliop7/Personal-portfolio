@@ -5,9 +5,25 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Giorgos Iliopoulos</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+<title>Giorgos Iliopoulos</title>
+<!-- Primary Meta Tags -->
+<title>Giorgos Iliopoulos</title>
+<meta name="title" content="Giorgos Iliopoulos">
+<meta name="description" content="Giorgos Iliopoulos | Portfolio">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://giorgos-iliopoulos.eu/">
+<meta property="og:title" content="Giorgos Iliopoulos">
+<meta property="og:description" content="Giorgos Iliopoulos | Portfolio">
+<meta property="og:image" content="https://giorgos-iliopoulos.eu/assets/img/profile-img.jpg">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://giorgos-iliopoulos.eu/">
+<meta property="twitter:title" content="Giorgos Iliopoulos">
+<meta property="twitter:description" content="Giorgos Iliopoulos | Portfolio">
+<meta property="twitter:image" content="">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.jpg" rel="icon">
