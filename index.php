@@ -495,7 +495,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/hdb cover.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/hdb cover.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Hellenic Development Bank Website</h4>
                 <p>Wordpress site with builder</p>
@@ -534,7 +534,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/syros.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/syros.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Syros Ermoupolis Website</h4>
                 <p>Wordpress City Portal with custom theme</p>
@@ -547,7 +547,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/moschatotavros1.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/moschatotavros1.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Moschato - Tavros Website</h4>
                 <p>Wordpress City Portal with custom theme</p>
@@ -561,7 +561,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/mymoschato.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/mymoschato.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Mymoschato new website</h4>
                 <p>Wordpress News website with Newspaper theme</p>
@@ -574,7 +574,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/ellgroup.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/ellgroup.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Ellgroup</h4>
                 <p>Wordpress Website for European local leaders (customized a lot with WP Bakery)</p>
@@ -587,7 +587,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/websites/credins.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/websites/credins.PNG" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Smile AL</h4>
                 <p>Crowdfunding platform for Credins Bank in Albania</p>

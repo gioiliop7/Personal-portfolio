@@ -135,6 +135,12 @@
 	height:200px;
 }
 
+@media screen and (max-width:768px){
+	.card{
+		margin-bottom:25px;
+	}
+}
+
 #portfolio > div > div.row.portfolio-container.aos-init.aos-animate > div> div > div > div > a.portfolio-details-lightbox > i{
 	font-size:20px;
 }
