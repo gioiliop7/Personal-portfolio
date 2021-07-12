@@ -54,6 +54,8 @@
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/custom.css" rel="stylesheet">
 
+ <?php require_once('./analytics.php'); ?>
+
   <!-- =======================================================
   * Template Name: MyResume - v4.0.1
   * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/

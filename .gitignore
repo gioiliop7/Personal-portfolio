@@ -148,3 +148,6 @@ sftp-config.json
 
 #Ignore image folders to commit
 assets/img
+
+#ignore analytics php in git
+analytics.php
