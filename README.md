@@ -2,4 +2,4 @@
 
 The personal website portoflio. Based on [Bootstrap Free Template](https://bootstrapmade.com/free-html-bootstrap-template-my-resume/)
 
-Link coming soon...
+Link: https://giorgos-iliopoulos.eu
